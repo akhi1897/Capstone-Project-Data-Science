@@ -66,3 +66,7 @@ Data Modeling:
 1. Devise strategies for model building. It is important to decide the right validation framework. Express your thought process.
 
 2. Apply an appropriate classification algorithm to build a model. Compare various models with the results from KNN algorithm.
+
+# Project Task : Week 4
+
+Please give me sometime, i am still working for Week 4 :)
