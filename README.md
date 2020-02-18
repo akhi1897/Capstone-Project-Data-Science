@@ -1,4 +1,4 @@
-# HealthCare-Capstone-Project-Data-Science ==> Please read below to see work of each week
+# Please read below to see work of each week ==>
 
 # Problem Statement
 
