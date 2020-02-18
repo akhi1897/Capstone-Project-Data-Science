@@ -14,15 +14,23 @@ The datasets consists of several medical predictor variables and one target vari
 
 # Variables	Description
 
-Pregnancies	Number of times pregnant
-Glucose	Plasma glucose concentration in an oral glucose tolerance test
-BloodPressure	Diastolic blood pressure (mm Hg)
-SkinThickness	Triceps skinfold thickness (mm)
-Insulin	Two hour serum insulin
-BMI	Body Mass Index
-DiabetesPedigreeFunction	Diabetes pedigree function
-Age	Age in years
-Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
+1.Pregnancies	Number of times pregnant
+
+2.Glucose	Plasma glucose concentration in an oral glucose tolerance test
+
+3.BloodPressure	Diastolic blood pressure (mm Hg)
+
+4.SkinThickness	Triceps skinfold thickness (mm)
+
+5.Insulin	Two hour serum insulin
+
+6.BMI	Body Mass Index
+
+7.DiabetesPedigreeFunction	Diabetes pedigree function
+
+8.Age	Age in years
+
+9.Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
 
 # Project Task: Week 1
 Data Exploration:
